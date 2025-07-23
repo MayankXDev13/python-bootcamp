@@ -1,6 +1,9 @@
+chai_type = "ginger"
+
+
 def update_order():
     chai_type = "Elaichi"
-    def kithcen():
+    def kithcen():        
         nonlocal chai_type 
         chai_type = "Kesar"
     kithcen()
