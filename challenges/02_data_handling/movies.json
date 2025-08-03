@@ -1,0 +1,17 @@
+[
+  {
+    "title": "endgame",
+    "genre": "superhero",
+    "rating": 10.0
+  },
+  {
+    "title": "loki",
+    "genre": "superhero",
+    "rating": 10.0
+  },
+  {
+    "title": "toy story",
+    "genre": "animation",
+    "rating": 10.0
+  }
+]
